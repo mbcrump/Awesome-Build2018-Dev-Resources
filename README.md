@@ -19,6 +19,7 @@ I took a stab at creating this list and hope folks are interested in helping mai
     - [aspnet/AzureSignalR-samples: Code samples for Azure SignalR](https://github.com/aspnet/AzureSignalR-samples)
     - [Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started: Bulk Executor Utility for Azure Cosmos DB .NET SQL API](https://github.com/Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started)
     - [Azure-Samples/azure-serverless-iot-button: Build a serverless powered IoT application using Azure IoT Hub, Functions, and Logic Apps](https://github.com/Azure-Samples/azure-serverless-iot-button)
+    - [teichgraf/WinMLExperiments: Projects for HoloLens RS4 leveraging Windows Machine Learning (WinML)](https://github.com/teichgraf/WinMLExperiments)
     
   
 - [Official Learning Resources](#resources)
