@@ -1,12 +1,12 @@
  # Awesome Build 2018 Dev Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mbcrump/)
 
-A curated list of awesome [sample code](#libraries) and [learning resources](#Official Learning Resources) from the Build 2018 conference. 
+A curated list of awesome [Sample Code](#sample-code) and [Official Learning Resources](#official-learning-resources) from the Build 2018 conference. 
 
 ### Contributing
 
 I took a stab at creating this list and hope folks are interested in helping maintain it. If you see something that I missed, add a PR and I'll accept it. Also, add me on [Twitter](https://twitter.com/mbcrump) for daily Azure Updates. 
 
-- Sample Code
+## Sample Code
     - [Microsoft/AzureSearch_JFK_Files: This repo contains the sample code of the Azure Search and Cognitive Services used to provide insights and analysis around the JFK Files](https://github.com/Microsoft/AzureSearch_JFK_Files)
     - [Microsoft/service-fabric: Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.](https://github.com/Microsoft/service-fabric/)
     - [All products – Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/blockchain?page=1)
@@ -22,7 +22,7 @@ I took a stab at creating this list and hope folks are interested in helping mai
     - [teichgraf/WinMLExperiments: Projects for HoloLens RS4 leveraging Windows Machine Learning (WinML)](https://github.com/teichgraf/WinMLExperiments)
     
   
-- Official Learning Resources
+## Official Learning Resources
     - [Announcing Cognitive Search: Azure Search + cognitive capabilities](https://azure.microsoft.com/en-us/blog/announcing-cognitive-search-azure-search-cognitive-capabilities/)
     - [Azure Service Fabric at Microsoft Build 2018](https://azure.microsoft.com/en-us/blog/azure-service-fabric-at-microsoft-build-2018/)
     - [Simplifying blockchain app development with Azure Blockchain Workbench](https://azure.microsoft.com/en-us/blog/simplifying-blockchain-app-development-with-azure-blockchain-workbench/)
