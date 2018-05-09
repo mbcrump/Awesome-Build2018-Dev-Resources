@@ -21,6 +21,7 @@ I took a stab at creating this list and hope folks are interested in helping mai
 * [Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started: Bulk Executor Utility for Azure Cosmos DB .NET SQL API](https://github.com/Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started)
 * [Azure-Samples/azure-serverless-iot-button: Build a serverless powered IoT application using Azure IoT Hub, Functions, and Logic Apps](https://github.com/Azure-Samples/azure-serverless-iot-button)
 * [teichgraf/WinMLExperiments: Projects for HoloLens RS4 leveraging Windows Machine Learning (WinML)](https://github.com/teichgraf/WinMLExperiments)
+* [Microsoft/ConferenceVision: Sample Xamarin.Forms 3.0 Phone App](https://github.com/Microsoft/ConferenceVision)
  
 
 ## Official Learning Resources
