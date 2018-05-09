@@ -7,6 +7,7 @@ A curated list of awesome [Sample Code](#sample-code) and [Official Learning Res
 I took a stab at creating this list and hope folks are interested in helping maintain it. If you see something that I missed, add a PR and I'll accept it. Also, add me on [Twitter](https://twitter.com/mbcrump) for daily Azure Updates. 
 
 ## Sample Code
+* [Microsoft/windows-dev-box-setup-scripts: Scripts to simplify setting up a Windows developer box](https://github.com/Microsoft/windows-dev-box-setup-scripts)
 * [Microsoft/AzureSearch_JFK_Files: This repo contains the sample code of the Azure Search and Cognitive Services used to provide insights and analysis around the JFK Files](https://github.com/Microsoft/AzureSearch_JFK_Files)
 * [Microsoft/service-fabric: Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.](https://github.com/Microsoft/service-fabric/)
 * [All products – Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/blockchain?page=1)
